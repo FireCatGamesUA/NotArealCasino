@@ -68,7 +68,7 @@ footer{
     display: none;
     width: 100vw;
     height: 250vh;
-    background-image: url(/images/rickroll-roll.gif);
+    background-image: url(./rickroll-roll.gif);
     background-position: center;
     background-size: cover;
     position: fixed;
